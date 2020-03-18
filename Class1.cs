@@ -2,7 +2,7 @@
 
 namespace AbstractTest
 {
-    public class Class1
+    public class AbstractTest
     {
     }
 }
